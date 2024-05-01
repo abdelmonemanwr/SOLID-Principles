@@ -5,7 +5,7 @@ public class Employee
     public string Department { get; set; }
 }
 
-class EmployeeSalary
+class EmployeeSalaryCalculator
 {
     public decimal CalculateYearlySalary(Employee employee)
     {
@@ -13,7 +13,7 @@ class EmployeeSalary
     }
 }
 
-class EmployeeReport
+class EmployeeReportGenerator
 {
     public decimal GenerateReport(Employee employee, string reportType)
     {
@@ -21,7 +21,7 @@ class EmployeeReport
     }
 }
 
-class EmployeeNotification
+class EmployeeNotificationService
 {
     public void SendNotification(Employee employee, string recipient, string message)
     {

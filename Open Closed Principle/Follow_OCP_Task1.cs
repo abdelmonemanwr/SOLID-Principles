@@ -6,6 +6,15 @@ public interface IPayment
 public class Payment
 {
     public double amount;
+    private IPayment payment;
+    Public Payment(IPayment payment, double amount)
+    {
+        this.payment = payment;
+    }
+    public void Pay(IPayment payment, double amount)
+    {
+        payment.ProcessPayment(amount);
+    }
 }
 
 public class CreditCardPayment : IPayment
