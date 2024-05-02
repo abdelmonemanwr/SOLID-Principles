@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI\\SOLID\\Full Solid Exercise\\SOLID-Soln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7B0560-C5B4-4D2E-856A-8B5764752A2A}|SOLID-Soln\\SOLID-Soln.csproj|d:\\iti\\solid\\full solid exercise\\solid-soln\\solid-soln\\services\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7B0560-C5B4-4D2E-856A-8B5764752A2A}|SOLID-Soln\\SOLID-Soln.csproj|solutionrelative:solid-soln\\services\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7B0560-C5B4-4D2E-856A-8B5764752A2A}|SOLID-Soln\\SOLID-Soln.csproj|d:\\iti\\solid\\full solid exercise\\solid-soln\\solid-soln\\services\\orderconfirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7B0560-C5B4-4D2E-856A-8B5764752A2A}|SOLID-Soln\\SOLID-Soln.csproj|solutionrelative:solid-soln\\services\\orderconfirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7B0560-C5B4-4D2E-856A-8B5764752A2A}|SOLID-Soln\\SOLID-Soln.csproj|d:\\iti\\solid\\full solid exercise\\solid-soln\\solid-soln\\interface\\iorderconfirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7B0560-C5B4-4D2E-856A-8B5764752A2A}|SOLID-Soln\\SOLID-Soln.csproj|solutionrelative:solid-soln\\interface\\iorderconfirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7B0560-C5B4-4D2E-856A-8B5764752A2A}|SOLID-Soln\\SOLID-Soln.csproj|d:\\iti\\solid\\full solid exercise\\solid-soln\\solid-soln\\interface\\inotificationsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7B0560-C5B4-4D2E-856A-8B5764752A2A}|SOLID-Soln\\SOLID-Soln.csproj|solutionrelative:solid-soln\\interface\\inotificationsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7B0560-C5B4-4D2E-856A-8B5764752A2A}|SOLID-Soln\\SOLID-Soln.csproj|d:\\iti\\solid\\full solid exercise\\solid-soln\\solid-soln\\models\\datainmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7B0560-C5B4-4D2E-856A-8B5764752A2A}|SOLID-Soln\\SOLID-Soln.csproj|solutionrelative:solid-soln\\models\\datainmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7B0560-C5B4-4D2E-856A-8B5764752A2A}|SOLID-Soln\\SOLID-Soln.csproj|d:\\iti\\solid\\full solid exercise\\solid-soln\\solid-soln\\models\\ecommercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7B0560-C5B4-4D2E-856A-8B5764752A2A}|SOLID-Soln\\SOLID-Soln.csproj|solutionrelative:solid-soln\\models\\ecommercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7B0560-C5B4-4D2E-856A-8B5764752A2A}|SOLID-Soln\\SOLID-Soln.csproj|d:\\iti\\solid\\full solid exercise\\solid-soln\\solid-soln\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7B0560-C5B4-4D2E-856A-8B5764752A2A}|SOLID-Soln\\SOLID-Soln.csproj|solutionrelative:solid-soln\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7B0560-C5B4-4D2E-856A-8B5764752A2A}|SOLID-Soln\\SOLID-Soln.csproj|d:\\iti\\solid\\full solid exercise\\solid-soln\\solid-soln\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7B0560-C5B4-4D2E-856A-8B5764752A2A}|SOLID-Soln\\SOLID-Soln.csproj|solutionrelative:solid-soln\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7B0560-C5B4-4D2E-856A-8B5764752A2A}|SOLID-Soln\\SOLID-Soln.csproj|d:\\iti\\solid\\full solid exercise\\solid-soln\\solid-soln\\interface\\ipaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7B0560-C5B4-4D2E-856A-8B5764752A2A}|SOLID-Soln\\SOLID-Soln.csproj|solutionrelative:solid-soln\\interface\\ipaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7B0560-C5B4-4D2E-856A-8B5764752A2A}|SOLID-Soln\\SOLID-Soln.csproj|d:\\iti\\solid\\full solid exercise\\solid-soln\\solid-soln\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7B0560-C5B4-4D2E-856A-8B5764752A2A}|SOLID-Soln\\SOLID-Soln.csproj|solutionrelative:solid-soln\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7B0560-C5B4-4D2E-856A-8B5764752A2A}|SOLID-Soln\\SOLID-Soln.csproj|d:\\iti\\solid\\full solid exercise\\solid-soln\\solid-soln\\unitofwork\\unitwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7B0560-C5B4-4D2E-856A-8B5764752A2A}|SOLID-Soln\\SOLID-Soln.csproj|solutionrelative:solid-soln\\unitofwork\\unitwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7B0560-C5B4-4D2E-856A-8B5764752A2A}|SOLID-Soln\\SOLID-Soln.csproj|d:\\iti\\solid\\full solid exercise\\solid-soln\\solid-soln\\services\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7B0560-C5B4-4D2E-856A-8B5764752A2A}|SOLID-Soln\\SOLID-Soln.csproj|solutionrelative:solid-soln\\services\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7B0560-C5B4-4D2E-856A-8B5764752A2A}|SOLID-Soln\\SOLID-Soln.csproj|d:\\iti\\solid\\full solid exercise\\solid-soln\\solid-soln\\services\\emailnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7B0560-C5B4-4D2E-856A-8B5764752A2A}|SOLID-Soln\\SOLID-Soln.csproj|solutionrelative:solid-soln\\services\\emailnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7B0560-C5B4-4D2E-856A-8B5764752A2A}|SOLID-Soln\\SOLID-Soln.csproj|d:\\iti\\solid\\full solid exercise\\solid-soln\\solid-soln\\services\\creditcardpaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7B0560-C5B4-4D2E-856A-8B5764752A2A}|SOLID-Soln\\SOLID-Soln.csproj|solutionrelative:solid-soln\\services\\creditcardpaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7B0560-C5B4-4D2E-856A-8B5764752A2A}|SOLID-Soln\\SOLID-Soln.csproj|d:\\iti\\solid\\full solid exercise\\solid-soln\\solid-soln\\interface\\iproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7B0560-C5B4-4D2E-856A-8B5764752A2A}|SOLID-Soln\\SOLID-Soln.csproj|solutionrelative:solid-soln\\interface\\iproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7B0560-C5B4-4D2E-856A-8B5764752A2A}|SOLID-Soln\\SOLID-Soln.csproj|d:\\iti\\solid\\full solid exercise\\solid-soln\\solid-soln\\services\\paypalpaymentprocessor .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7B0560-C5B4-4D2E-856A-8B5764752A2A}|SOLID-Soln\\SOLID-Soln.csproj|solutionrelative:solid-soln\\services\\paypalpaymentprocessor .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7B0560-C5B4-4D2E-856A-8B5764752A2A}|SOLID-Soln\\SOLID-Soln.csproj|d:\\iti\\solid\\full solid exercise\\solid-soln\\solid-soln\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7B0560-C5B4-4D2E-856A-8B5764752A2A}|SOLID-Soln\\SOLID-Soln.csproj|solutionrelative:solid-soln\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderConfirmation.cs",
+              "DocumentMoniker": "D:\\ITI\\SOLID\\Full Solid Exercise\\SOLID-Soln\\SOLID-Soln\\Services\\OrderConfirmation.cs",
+              "RelativeDocumentMoniker": "SOLID-Soln\\Services\\OrderConfirmation.cs",
+              "ToolTip": "D:\\ITI\\SOLID\\Full Solid Exercise\\SOLID-Soln\\SOLID-Soln\\Services\\OrderConfirmation.cs",
+              "RelativeToolTip": "SOLID-Soln\\Services\\OrderConfirmation.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowBUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T18:15:29.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOrderConfirmation.cs",
+              "DocumentMoniker": "D:\\ITI\\SOLID\\Full Solid Exercise\\SOLID-Soln\\SOLID-Soln\\Interface\\IOrderConfirmation.cs",
+              "RelativeDocumentMoniker": "SOLID-Soln\\Interface\\IOrderConfirmation.cs",
+              "ToolTip": "D:\\ITI\\SOLID\\Full Solid Exercise\\SOLID-Soln\\SOLID-Soln\\Interface\\IOrderConfirmation.cs",
+              "RelativeToolTip": "SOLID-Soln\\Interface\\IOrderConfirmation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T18:14:10.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataInMemory.cs",
+              "DocumentMoniker": "D:\\ITI\\SOLID\\Full Solid Exercise\\SOLID-Soln\\SOLID-Soln\\Models\\DataInMemory.cs",
+              "RelativeDocumentMoniker": "SOLID-Soln\\Models\\DataInMemory.cs",
+              "ToolTip": "D:\\ITI\\SOLID\\Full Solid Exercise\\SOLID-Soln\\SOLID-Soln\\Models\\DataInMemory.cs",
+              "RelativeToolTip": "SOLID-Soln\\Models\\DataInMemory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:59:59.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderProcessor.cs",
+              "DocumentMoniker": "D:\\ITI\\SOLID\\Full Solid Exercise\\SOLID-Soln\\SOLID-Soln\\Services\\OrderProcessor.cs",
+              "RelativeDocumentMoniker": "SOLID-Soln\\Services\\OrderProcessor.cs",
+              "ToolTip": "D:\\ITI\\SOLID\\Full Solid Exercise\\SOLID-Soln\\SOLID-Soln\\Services\\OrderProcessor.cs",
+              "RelativeToolTip": "SOLID-Soln\\Services\\OrderProcessor.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAowDgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:43:02.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmailNotifier.cs",
+              "DocumentMoniker": "D:\\ITI\\SOLID\\Full Solid Exercise\\SOLID-Soln\\SOLID-Soln\\Services\\EmailNotifier.cs",
+              "RelativeDocumentMoniker": "SOLID-Soln\\Services\\EmailNotifier.cs",
+              "ToolTip": "D:\\ITI\\SOLID\\Full Solid Exercise\\SOLID-Soln\\SOLID-Soln\\Services\\EmailNotifier.cs",
+              "RelativeToolTip": "SOLID-Soln\\Services\\EmailNotifier.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:40:08.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "INotificationSender.cs",
+              "DocumentMoniker": "D:\\ITI\\SOLID\\Full Solid Exercise\\SOLID-Soln\\SOLID-Soln\\Interface\\INotificationSender.cs",
+              "RelativeDocumentMoniker": "SOLID-Soln\\Interface\\INotificationSender.cs",
+              "ToolTip": "D:\\ITI\\SOLID\\Full Solid Exercise\\SOLID-Soln\\SOLID-Soln\\Interface\\INotificationSender.cs",
+              "RelativeToolTip": "SOLID-Soln\\Interface\\INotificationSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:39:28.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "D:\\ITI\\SOLID\\Full Solid Exercise\\SOLID-Soln\\SOLID-Soln\\Services\\ProductManager.cs",
+              "RelativeDocumentMoniker": "SOLID-Soln\\Services\\ProductManager.cs",
+              "ToolTip": "D:\\ITI\\SOLID\\Full Solid Exercise\\SOLID-Soln\\SOLID-Soln\\Services\\ProductManager.cs",
+              "RelativeToolTip": "SOLID-Soln\\Services\\ProductManager.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvxkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:35:32.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProductManager.cs",
+              "DocumentMoniker": "D:\\ITI\\SOLID\\Full Solid Exercise\\SOLID-Soln\\SOLID-Soln\\Interface\\IProductManager.cs",
+              "RelativeDocumentMoniker": "SOLID-Soln\\Interface\\IProductManager.cs",
+              "ToolTip": "D:\\ITI\\SOLID\\Full Solid Exercise\\SOLID-Soln\\SOLID-Soln\\Interface\\IProductManager.cs",
+              "RelativeToolTip": "SOLID-Soln\\Interface\\IProductManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:34:06.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnitWork.cs",
+              "DocumentMoniker": "D:\\ITI\\SOLID\\Full Solid Exercise\\SOLID-Soln\\SOLID-Soln\\UnitOfWork\\UnitWork.cs",
+              "RelativeDocumentMoniker": "SOLID-Soln\\UnitOfWork\\UnitWork.cs",
+              "ToolTip": "D:\\ITI\\SOLID\\Full Solid Exercise\\SOLID-Soln\\SOLID-Soln\\UnitOfWork\\UnitWork.cs",
+              "RelativeToolTip": "SOLID-Soln\\UnitOfWork\\UnitWork.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvxQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:01:55.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\ITI\\SOLID\\Full Solid Exercise\\SOLID-Soln\\SOLID-Soln\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "SOLID-Soln\\Repository\\GenericRepository.cs",
+              "ToolTip": "D:\\ITI\\SOLID\\Full Solid Exercise\\SOLID-Soln\\SOLID-Soln\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "SOLID-Soln\\Repository\\GenericRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAwwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:51:02.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\ITI\\SOLID\\Full Solid Exercise\\SOLID-Soln\\SOLID-Soln\\Repository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "SOLID-Soln\\Repository\\IGenericRepository.cs",
+              "ToolTip": "D:\\ITI\\SOLID\\Full Solid Exercise\\SOLID-Soln\\SOLID-Soln\\Repository\\IGenericRepository.cs",
+              "RelativeToolTip": "SOLID-Soln\\Repository\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:49:35.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PayPalPaymentProcessor .cs",
+              "DocumentMoniker": "D:\\ITI\\SOLID\\Full Solid Exercise\\SOLID-Soln\\SOLID-Soln\\Services\\PayPalPaymentProcessor .cs",
+              "RelativeDocumentMoniker": "SOLID-Soln\\Services\\PayPalPaymentProcessor .cs",
+              "ToolTip": "D:\\ITI\\SOLID\\Full Solid Exercise\\SOLID-Soln\\SOLID-Soln\\Services\\PayPalPaymentProcessor .cs",
+              "RelativeToolTip": "SOLID-Soln\\Services\\PayPalPaymentProcessor .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:45:11.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreditCardPaymentProcessor.cs",
+              "DocumentMoniker": "D:\\ITI\\SOLID\\Full Solid Exercise\\SOLID-Soln\\SOLID-Soln\\Services\\CreditCardPaymentProcessor.cs",
+              "RelativeDocumentMoniker": "SOLID-Soln\\Services\\CreditCardPaymentProcessor.cs",
+              "ToolTip": "D:\\ITI\\SOLID\\Full Solid Exercise\\SOLID-Soln\\SOLID-Soln\\Services\\CreditCardPaymentProcessor.cs",
+              "RelativeToolTip": "SOLID-Soln\\Services\\CreditCardPaymentProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:44:17.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPaymentProcessor.cs",
+              "DocumentMoniker": "D:\\ITI\\SOLID\\Full Solid Exercise\\SOLID-Soln\\SOLID-Soln\\Interface\\IPaymentProcessor.cs",
+              "RelativeDocumentMoniker": "SOLID-Soln\\Interface\\IPaymentProcessor.cs",
+              "ToolTip": "D:\\ITI\\SOLID\\Full Solid Exercise\\SOLID-Soln\\SOLID-Soln\\Interface\\IPaymentProcessor.cs",
+              "RelativeToolTip": "SOLID-Soln\\Interface\\IPaymentProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:43:22.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EcommerceContext.cs",
+              "DocumentMoniker": "D:\\ITI\\SOLID\\Full Solid Exercise\\SOLID-Soln\\SOLID-Soln\\Models\\EcommerceContext.cs",
+              "RelativeDocumentMoniker": "SOLID-Soln\\Models\\EcommerceContext.cs",
+              "ToolTip": "D:\\ITI\\SOLID\\Full Solid Exercise\\SOLID-Soln\\SOLID-Soln\\Models\\EcommerceContext.cs",
+              "RelativeToolTip": "SOLID-Soln\\Models\\EcommerceContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:29:30.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\ITI\\SOLID\\Full Solid Exercise\\SOLID-Soln\\SOLID-Soln\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "SOLID-Soln\\Models\\Order.cs",
+              "ToolTip": "D:\\ITI\\SOLID\\Full Solid Exercise\\SOLID-Soln\\SOLID-Soln\\Models\\Order.cs",
+              "RelativeToolTip": "SOLID-Soln\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:27:37.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\ITI\\SOLID\\Full Solid Exercise\\SOLID-Soln\\SOLID-Soln\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SOLID-Soln\\Models\\Product.cs",
+              "ToolTip": "D:\\ITI\\SOLID\\Full Solid Exercise\\SOLID-Soln\\SOLID-Soln\\Models\\Product.cs",
+              "RelativeToolTip": "SOLID-Soln\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:27:19.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

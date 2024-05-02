@@ -1,0 +1,6 @@
+D:\ITI\SOLID\Full Solid Exercise\SOLID-Soln\SOLID-Soln\obj\Debug\net8.0\SOLID-Soln.csproj.AssemblyReference.cache
+D:\ITI\SOLID\Full Solid Exercise\SOLID-Soln\SOLID-Soln\obj\Debug\net8.0\SOLID-Soln.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\SOLID\Full Solid Exercise\SOLID-Soln\SOLID-Soln\obj\Debug\net8.0\SOLID-Soln.AssemblyInfoInputs.cache
+D:\ITI\SOLID\Full Solid Exercise\SOLID-Soln\SOLID-Soln\obj\Debug\net8.0\SOLID-Soln.AssemblyInfo.cs
+D:\ITI\SOLID\Full Solid Exercise\SOLID-Soln\SOLID-Soln\obj\Debug\net8.0\SOLID-Soln.csproj.CoreCompileInputs.cache
+D:\ITI\SOLID\Full Solid Exercise\SOLID-Soln\SOLID-Soln\obj\Debug\net8.0\SOLID-Soln.sourcelink.json
